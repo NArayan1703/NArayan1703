@@ -1,5 +1,5 @@
 # About Me:
-<br>I am a Software Engineering student and freelance developer <br>with a focus on building functional, decentralized solutions. <br> enjoy bridging the gap between complex backend logic—specifically <br>within blockchain ecosystems—and intuitive frontend interfaces. <br>Whether I'm optimizing smart contracts or refining full-stack applications,<br><br><br>🌱 I’m currently learning JavaScript (React, Node.js), backend architecture, <br>and advanced data analysis techniques.<br>💬 Ask me about APIs<br>
+<br>I am a Software Engineering student and freelance developer <br>with a focus on building functional, decentralized solutions. <br> enjoy bridging the gap between complex backend logic—specifically <br>within blockchain ecosystems—and intuitive frontend interfaces. <br>Whether I'm optimizing smart contracts or refining full-stack applications,<br><br><br> I’m currently learning JavaScript (React, Node.js), backend architecture, <br>and advanced data analysis techniques.<br> Ask me about APIs<br>
 
 
 ##  Socials:
